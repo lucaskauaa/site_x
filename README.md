@@ -17,3 +17,9 @@ __Melhoria 1__, _Melhoria 2_
 * Javascript
 * Java
 * MySQL
+
+## Funcionalidades a desenvolver:
+
+1. Integração com outras formas de pagamento.
+2. Sistema de avaliações dos usuários.
+3. Sistema de frete grátis primeira compra.
