@@ -26,4 +26,8 @@ __Melhoria 1__, _Melhoria 2_
 
 ### Imagem local:
 
-![Logo Java](./img/java-logo.png);
+![Logo Java](./img/java-logo.png)
+
+### Imagem externa:
+
+![Logo Javascriot](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png)
