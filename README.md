@@ -69,3 +69,9 @@ Repositório principal: https://github.com/lucaskauaa/projeto-calculadora-fitnes
         }
     }
 ```
+
+
+## Lista de tarefas:
+
+- [x] Criar o README do repositório.
+- [] Criar arquivo js.
