@@ -31,3 +31,7 @@ __Melhoria 1__, _Melhoria 2_
 ### Imagem externa:
 
 ![Logo Javascriot](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png)
+
+### Imagem de teste:
+
+![Linhas de código](https://searchengineland.com/wp-content/seloads/2020/03/code-SS_634574354-1920x1080-1.jpg)
