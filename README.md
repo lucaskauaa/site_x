@@ -48,3 +48,13 @@ __Melhoria 1__, _Melhoria 2_
 Repositório principal: https://github.com/lucaskauaa/projeto-calculadora-fitness
 
 [![Logo Google](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/1200px-Google_2015_logo.svg.png)](https://www.google.com.br/)
+
+## Código:
+
+### Função soma:
+
+```javascript
+    function soma (a, b) {
+        return a + b;
+    }
+```
