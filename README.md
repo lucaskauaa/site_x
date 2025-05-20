@@ -58,3 +58,14 @@ Repositório principal: https://github.com/lucaskauaa/projeto-calculadora-fitnes
         return a + b;
     }
 ```
+
+
+### Print em Java:
+
+```Java
+    public class main {
+        public static void (String[] args){
+            System.out.println("Hello, World");
+        }
+    }
+```
